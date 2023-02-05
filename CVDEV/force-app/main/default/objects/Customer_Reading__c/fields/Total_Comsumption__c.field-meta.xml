@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Total_Comsumption__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(ISPICKVAL( Reading_Type__c ,&apos;Consumption&apos;),Reading_1__c+Reading_2__c+Reading_3__c+Reading_4__c+Reading_5__c+Reading_6__c+Reading_7__c+Reading_8__c+Reading_9__c+Reading_10__c+Reading_11__c+Reading_12__c+Reading_13__c+Reading_14__c+Reading_15__c+Reading_16__c+Reading_17__c+Reading_18__c+Reading_19__c+Reading_20__c+Reading_21__c+Reading_22__c+Reading_23__c+Reading_24__c+Reading_25__c+Reading_26__c+Reading_27__c+Reading_28__c+Reading_29__c+Reading_30__c+Reading_31__c+Reading_32__c+Reading_33__c+Reading_34__c+Reading_35__c+Reading_36__c+Reading_37__c+Reading_38__c+Reading_39__c+Reading_40__c+Reading_41__c+Reading_42__c+Reading_43__c+Reading_44__c+Reading_45__c+Reading_46__c+Reading_47__c+Reading_48__c,null)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Total Comsumption</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

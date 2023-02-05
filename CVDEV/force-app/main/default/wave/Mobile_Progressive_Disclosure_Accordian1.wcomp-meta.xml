@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveComponent xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <content xsi:nil="true"/>
+    <application>Test_App</application>
+    <masterLabel>[Mobile] Progressive Disclosure | Accordian</masterLabel>
+    <templateAssetSourceName>Mobile_Progressive_Disclosure_Accordian1_tp</templateAssetSourceName>
+</WaveComponent>

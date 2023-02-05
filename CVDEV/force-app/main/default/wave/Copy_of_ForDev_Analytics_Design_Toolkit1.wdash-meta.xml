@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveDashboard xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <content xsi:nil="true"/>
+    <application>Test_App</application>
+    <masterLabel>ForDev_Analytics Design Toolkit_Mobile</masterLabel>
+    <templateAssetSourceName>Copy_of_ForDev_Analytics_Design_Toolkit1_tp</templateAssetSourceName>
+</WaveDashboard>

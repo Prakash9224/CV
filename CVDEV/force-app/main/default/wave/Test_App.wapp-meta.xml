@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assetIcon>/analytics/wave/web/proto/images/app/icons/12.png</assetIcon>
+    <folder>Test_App</folder>
+    <masterLabel>Test App</masterLabel>
+    <shares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>mailtoprakash67@gmail.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </shares>
+    <templateOrigin>sfdc_internal__EADesignTemplate</templateOrigin>
+    <templateVersion>2.0</templateVersion>
+</WaveApplication>

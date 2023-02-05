@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveDataset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <application>Test_App</application>
+    <masterLabel>static1</masterLabel>
+    <templateAssetSourceName>static1</templateAssetSourceName>
+    <type>default</type>
+</WaveDataset>
